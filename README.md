@@ -2,7 +2,7 @@
  Jogo inspirado no filme Black Mirror Bandersnatch
 <br>
 <H1> Proposta: </H1>
-<H4> Projeto feito em faculdade com a proposta de simular um jogo RPG emulado em terminal , com foco em mostrar que cada escolha leva para um final difente</H4>
+<H4> Projeto feito em faculdade com a proposta de simular um jogo RPG emulado em terminal , com foco em mostrar que cada escolha o jogador para destinos diferentes e finais inesperados.</H4>
 <br>
 <h1>Screnshots </h1>
 <h5>code:</h5>
